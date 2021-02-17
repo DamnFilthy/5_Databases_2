@@ -144,6 +144,3 @@ LOGGING = {
     },
 }
 
-MSG_MAIN_SCOPE_DELETE_NOT_ALLOWED = 'Ошибка! Нельзя удалять главную рубрику.'
-MSG_TWO_MAIN_SCOPES_NOT_ALLOWED = 'Ошибка! Выбрано более двух главных рубрик.'
-MSG_MAIN_SCOPE_IS_EMPTY_NOT_ALLOWED = 'Ошибка! Не задана главная рубрика.'
